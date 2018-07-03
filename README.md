@@ -5,7 +5,8 @@ This is the simple change made.
 
 ## Introduction
 
-More introduction text
+More introduction text.
+Adding a line for rebasing example
 
 ## Purpose
 
