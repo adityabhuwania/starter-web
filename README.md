@@ -18,6 +18,8 @@ This is a simple web project
 ## How to compute
 Some changes done in compute
 
+Please fork this reporsitiry and issue PR for review.
+
 ### Copyright
 
 123412412424
