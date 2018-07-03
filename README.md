@@ -17,3 +17,7 @@ This is a simple web project
 
 ## How to compute
 Some changes done in compute
+
+### Copyright
+
+123412412424
