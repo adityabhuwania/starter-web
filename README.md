@@ -24,4 +24,4 @@ Please fork this reporsitiry and issue PR for review.
 
 ### Copyright
 
-123412412424
+123412412424 All rights reserved.
