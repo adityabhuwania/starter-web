@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 This is the simple change made.
+more changes from myfeature branch too
 
 ## Introduction
 
